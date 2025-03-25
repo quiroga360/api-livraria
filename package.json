@@ -1,0 +1,24 @@
+{
+  "name": "api-livraria",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/quiroga360/api-livraria#readme",
+  "bugs": {
+    "url": "https://github.com/quiroga360/api-livraria/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quiroga360/api-livraria.git"
+  },
+  "license": "ISC",
+  "author": "Pablo Quiroga",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
